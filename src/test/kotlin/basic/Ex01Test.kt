@@ -4,7 +4,7 @@ import kotlin.test.Test
 import kotlin.test.assertEquals
 
 
-class HelloWorldTest {
+class Ex01Test {
 
     @Test
     fun testHelloWorld() {

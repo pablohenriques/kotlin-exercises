@@ -3,7 +3,7 @@ package basic
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class GetAndShowMessageTest {
+class Ex04Test {
 
     @Test
     fun testGetAndShowMessage() {

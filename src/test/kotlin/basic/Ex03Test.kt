@@ -4,7 +4,7 @@ import java.time.LocalDate
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class CurrentDateTest {
+class Ex03Test {
 
     @Test
     fun testCurrentDate() {

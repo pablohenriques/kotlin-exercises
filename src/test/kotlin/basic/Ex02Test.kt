@@ -3,7 +3,7 @@ package basic
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class VersionKotlinTest {
+class Ex02Test {
 
     @Test
     fun testGetVersionKotlin() {
