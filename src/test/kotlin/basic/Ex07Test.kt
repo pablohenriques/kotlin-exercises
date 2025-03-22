@@ -13,5 +13,4 @@ class Ex07Test {
         assertEquals(expectedMaxNumber, 3)
         assertEquals(expectedMinNumber, 1)
     }
-
 }

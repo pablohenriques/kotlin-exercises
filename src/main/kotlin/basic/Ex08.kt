@@ -9,4 +9,3 @@ fun factorial(number: Int): Int {
     }
     return result
 }
-

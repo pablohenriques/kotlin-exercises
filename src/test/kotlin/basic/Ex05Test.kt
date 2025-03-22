@@ -39,5 +39,4 @@ class Ex05Test {
         val expected = 0
         assertEquals(expected, result)
     }
-
 }

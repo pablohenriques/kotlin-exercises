@@ -18,5 +18,4 @@ class Ex06Test {
         val expected = "odd number"
         assertEquals(expected, result)
     }
-
 }

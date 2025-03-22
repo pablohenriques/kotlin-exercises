@@ -1,8 +1,7 @@
-package basic;
+package basic
 
 import kotlin.test.Test
 import kotlin.test.assertEquals
-
 
 class Ex09Test {
 

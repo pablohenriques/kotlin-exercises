@@ -3,7 +3,6 @@ package basic
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-
 class Ex01Test {
 
     @Test

@@ -12,5 +12,4 @@ class Ex10Test {
         val expected = 63.0
         assertEquals(expected, result)
     }
-
 }
