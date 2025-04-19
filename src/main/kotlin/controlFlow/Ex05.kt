@@ -1,6 +1,6 @@
-package control_flow
+package controlFlow
 
-//Write a Kotlin program to print the Pascal's triangle of a given number of rows
+// Write a Kotlin program to print the Pascal's triangle of a given number of rows
 
 private fun factorial(number: Int): Int {
     var result = 1
@@ -11,7 +11,7 @@ private fun factorial(number: Int): Int {
 }
 
 private fun binominalCoefficientFormula(n: Int, k: Int): Int {
-    return factorial(n) / (factorial(k) * factorial(n-k))
+    return factorial(n) / (factorial(k) * factorial(n - k))
 }
 
 fun createPascalsTriangle(rows: Int): MutableList<MutableList<Int>> {

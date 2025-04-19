@@ -1,4 +1,4 @@
-package control_flow
+package controlFlow
 
 import io.kotest.core.spec.style.FunSpec
 import kotlin.math.pow

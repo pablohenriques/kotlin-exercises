@@ -1,6 +1,6 @@
-package control_flow
+package controlFlow
 
-//Write a Kotlin program to print the first 10 natural numbers
+// Write a Kotlin program to print the first 10 natural numbers
 
 fun firstTen(): MutableList<Int> {
     val list: MutableList<Int> = mutableListOf()

@@ -1,4 +1,4 @@
-package control_flow
+package controlFlow
 
 /* Write a Kotlin program to check if a given character is a vowel or a consonant */
 

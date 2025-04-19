@@ -1,9 +1,9 @@
-package control_flow
+package controlFlow
 
 import io.kotest.core.spec.style.DescribeSpec
 import io.kotest.matchers.shouldBe
 
-class Ex03Test: DescribeSpec({
+class Ex03Test : DescribeSpec({
     describe("checking type of character") {
 
         it("it is a vowel") {
